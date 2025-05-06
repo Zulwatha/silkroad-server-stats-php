@@ -1,0 +1,20 @@
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.cache
+*.bak
+
+# PHPStorm & Composer
+/vendor/
+composer.lock
+
+# Tests & coverage (if added later)
+coverage/
+phpunit.xml
