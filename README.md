@@ -1,4 +1,4 @@
-# Silkroad Server Stats Tool
+# Silkroad Server Stats - PHP
 
 A unique PHP-based diagnostic tool to query and decode live server statistics from Silkroad Online gateway servers.  
 It performs raw socket connections and applies custom binary protocol decoding tailored for the Silkroad architecture.
